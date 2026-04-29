@@ -1,0 +1,52 @@
+/*Project-cards*/
+/* .project-cards-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 40px;
+  margin-bottom: 80px;
+} */
+
+.project-cards-container {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+  justify-content: center;
+}
+/* 
+.project-card {
+  height: 360px;
+  width: 330px;
+  /* overflow: hidden; 
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+} */
+
+.project-card img {
+  height: 500px;
+  border-radius: 25px;
+}
+
+.project-card img:hover {
+  scale: 1.025;
+}
+
+.all-projects-btn {
+  border: solid 1.5px var(--pink);
+  border-radius: 25px;
+  width: 150px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  justify-self: center;
+}
+
+.all-projects-btn a {
+  color: var(--pink);
+  font-family: "poppins", sans-serif;
+  font-size: 1.2rem;
+  text-decoration: none;
+  padding: 20px;
+}
