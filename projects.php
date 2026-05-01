@@ -7,7 +7,6 @@
 <?php get_header(); ?>
 
 <main>
-    <h3>Projects</h3>
     <?php get_template_part('project-template-parts/illustrations'); ?>
     <?php get_template_part('project-template-parts/alkov'); ?>
     <?php get_template_part('project-template-parts/sjömat'); ?>
