@@ -1,22 +1,45 @@
 <section class="contact-container" id="contact">
-    <h3>Contact</h3>
+    <div class="contact-info">
+        <h3>Contact</h3>
 
-    <ul class="contact-list">
-        <li class="contact-list-item">
-            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
-                <path stroke-linecap="round" stroke-linejoin="round" d="M2.25 6.75c0 8.284 6.716 15 15 15h2.25a2.25 2.25 0 0 0 2.25-2.25v-1.372c0-.516-.351-.966-.852-1.091l-4.423-1.106c-.44-.11-.902.055-1.173.417l-.97 1.293c-.282.376-.769.542-1.21.38a12.035 12.035 0 0 1-7.143-7.143c-.162-.441.004-.928.38-1.21l1.293-.97c.363-.271.527-.734.417-1.173L6.963 3.102a1.125 1.125 0 0 0-1.091-.852H4.5A2.25 2.25 0 0 0 2.25 4.5v2.25Z" />
-            </svg>
-            0764 14 33 63
-        </li>
-        <li class="contact-list-item">
-            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
-                <path stroke-linecap="round" stroke-linejoin="round" d="M21.75 6.75v10.5a2.25 2.25 0 0 1-2.25 2.25h-15a2.25 2.25 0 0 1-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0 0 19.5 4.5h-15a2.25 2.25 0 0 0-2.25 2.25m19.5 0v.243a2.25 2.25 0 0 1-1.07 1.916l-7.5 4.615a2.25 2.25 0 0 1-2.36 0L3.32 8.91a2.25 2.25 0 0 1-1.07-1.916V6.75" />
-            </svg>
-            almahammar@hotmail.com
-        </li>
-    </ul>
+        <ul class="contact-list">
+            <li class="contact-list-item">
+                <a href="tel:+46764143363" class="contact-link">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M2.25 6.75c0 8.284 6.716 15 15 15h2.25a2.25 2.25 0 0 0 2.25-2.25v-1.372c0-.516-.351-.966-.852-1.091l-4.423-1.106c-.44-.11-.902.055-1.173.417l-.97 1.293c-.282.376-.769.542-1.21.38a12.035 12.035 0 0 1-7.143-7.143c-.162-.441.004-.928.38-1.21l1.293-.97c.363-.271.527-.734.417-1.173L6.963 3.102a1.125 1.125 0 0 0-1.091-.852H4.5A2.25 2.25 0 0 0 2.25 4.5v2.25Z" />
+                    </svg>
+                    0764 14 33 63
+                </a>
+            </li>
+            <li class="contact-list-item">
+                <a href="mailto:almahammar@hotmail.com" class="contact-link">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M21.75 6.75v10.5a2.25 2.25 0 0 1-2.25 2.25h-15a2.25 2.25 0 0 1-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0 0 19.5 4.5h-15a2.25 2.25 0 0 0-2.25 2.25m19.5 0v.243a2.25 2.25 0 0 1-1.07 1.916l-7.5 4.615a2.25 2.25 0 0 1-2.36 0L3.32 8.91a2.25 2.25 0 0 1-1.07-1.916V6.75" />
+                    </svg>
+                    almahammar@hotmail.com
+                </a>
+            </li>
+            <li class="contact-list-item">
+                <a href="linkedin.com/in/alma-hammar-0336011b4" class="contact-link">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/icons/linkedin-rounded-border-svgrepo-com.svg">
+                    linkedin.com/in/alma-hammar-0336011b4
+                </a>
+            </li>
+            <li class="contact-list-item">
+                <a href="https://www.instagram.com/hammarensgraf_/" class="contact-link">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/icons/instagram-svgrepo-com.svg">
+                    @hammarensgraf_
+                </a>
+            </li>
+        </ul>
+    </div>
 
-    <div class="contact-btns">
+    <div class="bye">
+        <h1>Thank</h1>
+        <h2>you!</h2>
+    </div>
+
+    <!--     <div class="contact-btns">
         <ul class="link-list">
             <li class="link-list-item">
                 <a href="https://www.instagram.com/hammarensgraf_"><img src="<?php echo get_template_directory_uri(); ?>/assets/icons/instagram-2-1-logo-svgrepo-com.svg">
@@ -26,9 +49,9 @@
                 <a href="linkedin.com/in/alma-hammar-0336011b4"><img src="<?php echo get_template_directory_uri(); ?>/assets/icons/linkedin-icon-2-logo-svgrepo-com.svg">
                 </a>
             </li>
-            <!-- <li class="link-list-item">
+            <li class="link-list-item">
                 <a href="mailto:almahammar@hotmail.com" class="contact-btn"></a>
-            </li> -->
+            </li>
         </ul>
-    </div>
+    </div> -->
 </section>
