@@ -1,52 +1,33 @@
-/*Project-cards*/
-/* .project-cards-container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 40px;
-  margin-bottom: 80px;
-} */
+#projects h3,
+#projects h4 {
+  margin-bottom: 20px;
+}
 
 .project-cards-container {
   display: flex;
   gap: 10px;
-  margin-bottom: 20px;
+  margin-bottom: 60px;
   justify-content: center;
+  flex-wrap: wrap;
 }
-/* 
+
 .project-card {
-  height: 360px;
-  width: 330px;
-  /* overflow: hidden; 
-  display: flex;
-  flex-direction: column;
-  gap: 20px;
-} */
+  overflow: hidden;
+  border-radius: 25px;
+  position: relative;
+  cursor: pointer;
+}
 
 .project-card img {
   height: 500px;
-  border-radius: 25px;
+  display: block;
+  transition: transform 0.3s ease;
 }
 
 .project-card img:hover {
-  scale: 1.025;
+  transform: scale(1.05);
 }
 
-.all-projects-btn {
-  border: solid 1.5px var(--pink);
-  border-radius: 25px;
-  width: 150px;
-  height: 40px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  justify-self: center;
-}
-
-.all-projects-btn a {
-  color: var(--pink);
-  font-family: "poppins", sans-serif;
-  font-size: 1.2rem;
-  text-decoration: none;
-  padding: 20px;
+.img-info {
+  position: absolute;
 }
