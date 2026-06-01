@@ -20,7 +20,7 @@
                 </a>
             </li>
             <li class="contact-list-item">
-                <a href="linkedin.com/in/alma-hammar-0336011b4" class="contact-link">
+                <a href="https://www.linkedin.com/in/alma-hammar-0336011b4/" class="contact-link">
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/icons/linkedin-rounded-border-svgrepo-com.svg">
                     linkedin.com/in/alma-hammar-0336011b4
                 </a>

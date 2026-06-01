@@ -1,5 +1,7 @@
 .contact-container {
   display: flex;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .contact-list {
@@ -64,3 +66,32 @@
 .link-list-item img:hover {
   scale: 1.1;
 } */
+
+@media (max-width: 768px) {
+  .contact-container {
+    flex-direction: column;
+    gap: 40px;
+    padding-bottom: 80px;
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+    left: 0;
+    right: 0;
+    align-items: center;
+  }
+
+  .contact-list-item {
+    margin: 20px;
+  }
+
+  .contact-list,
+  .contact-info h3 {
+    padding: 0px;
+  }
+
+  .bye h1,
+  .bye h2 {
+    font-size: 3rem;
+    text-align: center;
+  }
+}

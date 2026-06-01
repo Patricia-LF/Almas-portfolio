@@ -1,6 +1,6 @@
    <?php get_header(); ?>
 
-   <section class="hero">
+   <section class="hero" id="hero">
        <div class="intro-container">
            <div class="name">
                <h2>Alma</h2>

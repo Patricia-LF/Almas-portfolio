@@ -34,7 +34,7 @@ footer p {
   display: flex;
   gap: 30px;
   list-style: none;
-  width: 100vw;
+  width: 100%;
   justify-content: center;
 }
 
@@ -52,4 +52,21 @@ footer p {
 .footer-link img:hover,
 .footer-link svg:hover {
   transform: scale(1.05);
+}
+
+@media (max-width: 768px) {
+  footer {
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px;
+  }
+
+  footer p {
+    text-align: center;
+  }
+
+  .date {
+    position: relative;
+    align-self: center;
+  }
 }

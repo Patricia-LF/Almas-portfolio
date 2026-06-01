@@ -4,7 +4,7 @@
 }
 
 .intro-container {
-  height: 100vh;
+  /* height: 100vh; */
   display: flex;
   flex-direction: column;
   /* justify-content: center;
@@ -130,4 +130,36 @@ h3 {
   width: auto;
   padding-right: 100px;
   animation: wiggle 1s ease 0.5s 1 forwards; /* Plays once after 0.5s delay */
+}
+
+@media (max-width: 768px) {
+  .hero {
+    flex-direction: column;
+  }
+
+  h1,
+  h2 {
+    font-size: 4rem;
+    padding: 0;
+  }
+
+  .intro {
+    width: 90%;
+    margin-bottom: 20px;
+  }
+
+  .hero-image {
+    justify-content: center;
+    margin-top: 20px;
+  }
+
+  .hero img {
+    padding-right: 0px;
+    height: 300px;
+  }
+
+  .cv {
+    width: 100%;
+    justify-content: center;
+  }
 }

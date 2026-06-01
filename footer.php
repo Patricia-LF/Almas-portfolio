@@ -10,7 +10,7 @@
             </a>
         </li>
         <li class="footer-link">
-            <a href="linkedin.com/in/alma-hammar-0336011b4"><img src="<?php echo get_template_directory_uri(); ?>/assets/icons/linkedin-icon-2-logo-svgrepo-com.svg">
+            <a href="https://www.linkedin.com/in/alma-hammar-0336011b4/"><img src="<?php echo get_template_directory_uri(); ?>/assets/icons/linkedin-icon-2-logo-svgrepo-com.svg">
             </a>
         </li>
         <li class="footer-link">

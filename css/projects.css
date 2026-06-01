@@ -172,3 +172,60 @@ h4 {
   line-height: 150%;
   box-shadow: 0 1px 6px rgba(0, 0, 0, 0.6);
 }
+
+@media (max-width: 768px) {
+  h4 {
+    margin-top: 60px;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+  }
+
+  .alkov-container,
+  .sjomat-container,
+  .winebar-container,
+  .tapas-container,
+  .illustrations-container,
+  .dugges-container,
+  .pitchfork-container,
+  .potejto-container,
+  .bin-container,
+  .motion-container {
+    gap: 20px;
+  }
+
+  .alkov-text-container,
+  .sjomat-text-container,
+  .winebar-text-container,
+  .tapas-text-container,
+  .illustrations-text-container,
+  .dugges-text-container,
+  .pitchfork-text-container,
+  .potejto-text-container,
+  .bin-text-container,
+  .motion-text-container {
+    margin: 0px;
+    width: 100%;
+  }
+
+  .alkov-text,
+  .sjomat-text,
+  .winebar-text,
+  .tapas-text,
+  .illustrations-text,
+  .dugges-text,
+  .pitchfork-text,
+  .potejto-text,
+  .bin-text,
+  .motion-text {
+    width: 90%;
+    display: flex;
+    align-self: center;
+  }
+
+  .gallery-item img {
+    height: 300px;
+    width: 100%;
+    object-fit: contain;
+  }
+}

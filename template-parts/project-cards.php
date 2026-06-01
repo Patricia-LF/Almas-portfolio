@@ -2,7 +2,15 @@
     <h3>Projects</h3>
     <div class="project-cards-container">
         <div class="project-card">
-            <a href="<?php echo get_permalink(25); ?>" class="project-link"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/alkov/alkov10.jpeg"></a>
+            <a href="<?php echo get_permalink(25); ?>" class="project-link"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/alkov/alkov10.jpeg">
+                <div class="project-card-info">
+                    <span class="gallery-title">Alkov</span>
+                    <div class="gallery-badges">
+                        <span class="badge">Print</span>
+                        <span class="badge">Fiktivt</span>
+                    </div>
+                </div>
+            </a>
         </div>
 
         <div class="project-card">
@@ -13,7 +21,7 @@
             <a href="<?php echo get_permalink(29); ?>" class="project-link"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/winebar-designs/2vinino-natten.png"></a>
         </div>
 
-        <div class="project-card">
+        <div class="project-card-sjomat">
             <a href="<?php echo get_permalink(27); ?>" class="project-link"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/sjomat/Mockup katalog_sjomat4.png"></a>
         </div>
 
