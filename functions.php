@@ -20,5 +20,13 @@ function theme_scripts()
         null, // version (null = no cache busting)
         true  // load in footer
     );
+
+    wp_enqueue_script(
+        'top-button',
+        get_template_directory_uri() . '/js/top.js',
+        [],
+        null,
+        true
+    );
 }
 add_action('wp_enqueue_scripts', 'theme_scripts');

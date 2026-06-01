@@ -137,6 +137,10 @@
 
     <?php get_template_part('template-parts/contact'); ?>
 
+    <button id="backToTop" class="start-btn" aria-label="Back to top">
+        ↑
+    </button>
+
 </main>
 
 <?php get_footer(); ?>

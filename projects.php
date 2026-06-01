@@ -18,6 +18,10 @@
     <?php get_template_part('project-template-parts/potejto'); ?>
     <?php get_template_part('project-template-parts/binas'); ?>
     <?php get_template_part('project-template-parts/motion'); ?>
+
+    <button id="backToTop" class="start-btn" aria-label="Back to top">
+        ↑
+    </button>
 </main>
 
 <?php get_footer(); ?>
