@@ -10,7 +10,7 @@
 
     <section class="motion">
         <div class="motion-container">
-            <div class="potejto-text-container">
+            <div class="motion-text-container">
                 <h4>Motion design</h4>
                 <p class="motion-text">
                     Here we have two animations. A coffee machine
@@ -19,25 +19,17 @@
             </div>
 
             <div class="motion-img-container">
-                <div class="gallery-item">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/coffee.jpg" class="gallery-img">
+                <div class="gallery-item" data-video="<?php echo get_template_directory_uri(); ?>/assets/motion/coffee.mp4">
+                    <video src="<?php echo get_template_directory_uri(); ?>/assets/motion/coffee.mp4" class="gallery-thumb-video" muted preload="metadata"></video>
                     <div class="gallery-overlay">
-                        <span class="gallery-title">Katalog 1</span>
-                        <div class="gallery-badges">
-                            <span class="badge">Print</span>
-                            <span class="badge">Fiktivt</span>
-                        </div>
+                        <span class="gallery-title">Coffee machine</span>
                     </div>
                 </div>
 
-                <div class="gallery-item">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/dog.jpg" class="gallery-img">
+                <div class="gallery-item" data-video="<?php echo get_template_directory_uri(); ?>/assets/motion/dog.mp4">
+                    <video src="<?php echo get_template_directory_uri(); ?>/assets/motion/dog.mp4" class="gallery-thumb-video" muted preload="metadata"></video>
                     <div class="gallery-overlay">
-                        <span class="gallery-title">Katalog 1</span>
-                        <div class="gallery-badges">
-                            <span class="badge">Print</span>
-                            <span class="badge">Fiktivt</span>
-                        </div>
+                        <span class="gallery-title">Sture</span>
                     </div>
                 </div>
             </div>
