@@ -15,6 +15,11 @@ h4 {
   text-transform: uppercase;
 }
 
+.motion {
+  display: flex;
+  flex-direction: column;
+}
+
 .alkov-container,
 .sjomat-container,
 .winebar-container,
@@ -56,9 +61,13 @@ h4 {
 .pitchfork-img-container img,
 .potejto-img-container img,
 .bin-img-container img,
-.motion-img-container img {
+.motion-img-container video {
   cursor: pointer;
   border-radius: 5%;
+}
+
+.motion-img-container video {
+  object-fit: contain;
 }
 
 .alkov-text-container,
@@ -90,7 +99,7 @@ h4 {
 .bin-text,
 .motion-text {
   font-family: "poppins", sans-serif;
-  font-size: 0.8rem;
+  font-size: 1rem;
   color: #253f8e;
   line-height: 1.2;
 }
@@ -106,6 +115,13 @@ h4 {
 }
 
 .lightbox-img {
+  max-width: 90vw;
+  max-height: 90vh;
+  object-fit: contain;
+}
+
+.lightbox-video {
+  display: none;
   max-width: 90vw;
   max-height: 90vh;
   object-fit: contain;
@@ -128,7 +144,8 @@ h4 {
   cursor: pointer;
 }
 
-.gallery-item img {
+.gallery-item img,
+.gallery-item video {
   height: 400px;
   width: auto;
   display: block;
@@ -157,20 +174,33 @@ h4 {
   font-size: 1rem;
   margin-bottom: 0.5em;
   text-shadow: 0 1px 6px rgba(0, 0, 0, 0.799);
+  z-index: 50;
+  position: relative;
+}
+
+.text-badges-container {
+  display: flex;
+  align-items: center;
+}
+
+.gallery-badges {
+  display: flex;
+  gap: 1rem;
 }
 
 .badge {
   font-family: "Montsserat", sans-serif;
-  font-size: 0.75rem;
-  background-color: white;
+  font-size: 1rem;
+  background-color: var(--light-pink);
   color: var(--dark-red);
-  border-radius: 20px;
-  padding: 4px 10px;
+  border-radius: 5px;
+  padding: 8px 16px;
   display: inline-block;
-  margin-right: 4px;
-  font-weight: 300;
+  font-weight: 600;
   line-height: 150%;
   box-shadow: 0 1px 6px rgba(0, 0, 0, 0.6);
+  z-index: 50;
+  position: relative;
 }
 
 @media (max-width: 768px) {
@@ -191,7 +221,7 @@ h4 {
   .potejto-container,
   .bin-container,
   .motion-container {
-    gap: 20px;
+    gap: 2rem;
   }
 
   .alkov-text-container,
@@ -228,4 +258,14 @@ h4 {
     width: 100%;
     object-fit: contain;
   }
+
+  .text-badges-container {
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+
+  /* .gallery-badges {
+    flex-direction: column;
+    text-align: center;
+  } */
 }

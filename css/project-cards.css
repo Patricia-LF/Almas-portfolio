@@ -21,6 +21,7 @@
 
 .project-card img,
 .project-card-sjomat img {
+  position: relative;
   height: 500px;
   display: block;
   transition: transform 0.3s ease;
@@ -30,9 +31,105 @@
   transform: scale(1.05);
 }
 
+.project-name {
+  font-family: "Montsserat", sans-serif;
+  font-weight: 600;
+  color: white;
+  font-size: 1.2rem;
+  /* margin-bottom: 0.5em; */
+  text-shadow: 0 1px 6px rgba(0, 0, 0, 0.799);
+  z-index: 50;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  justify-self: end;
+  align-items: center;
+  align-self: end;
+  padding: 1em;
+  transition: opacity 0.3s ease;
+  pointer-events: none;
+  position: absolute;
+  width: 174px;
+  height: 3rem;
+  margin-bottom: 20px;
+  background: #d287cec4;
+}
+
+.gallery-title {
+  font-family: "Montsserat", sans-serif;
+  font-weight: 600;
+  color: white;
+  font-size: 1rem;
+  margin-bottom: 0.5em;
+  text-shadow: 0 1px 6px rgba(0, 0, 0, 0.799);
+  z-index: 50;
+  position: relative;
+}
+
+.text-badges-container {
+  display: flex;
+  align-items: center;
+}
+
+/* .badge {
+  font-family: "Montsserat", sans-serif;
+  font-size: 1.2rem;
+  background-color: white;
+  color: var(--dark-red);
+  border-radius: 20px;
+  padding: 8px 16px;
+  display: inline-block;
+  margin-right: 4px;
+  font-weight: 300;
+  line-height: 150%;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.6);
+  z-index: 50;
+  position: relative;
+} */
+
 /* .img-info {
   position: absolute;
-} */
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 1em;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  pointer-events: none; /* Clicks pass through to the image 
+}
+
+.img-info:hover {
+  opacity: 1;
+}
+
+.title {
+  font-family: "Montsserat", sans-serif;
+  font-weight: 600;
+  color: white;
+  font-size: 1rem;
+  margin-bottom: 0.5em;
+  text-shadow: 0 1px 6px rgba(0, 0, 0, 0.799);
+  z-index: 50;
+  position: relative;
+}
+
+.badge {
+  font-family: "Montsserat", sans-serif;
+  font-size: 0.75rem;
+  background-color: white;
+  color: var(--dark-red);
+  border-radius: 20px;
+  padding: 4px 10px;
+  display: inline-block;
+  margin-right: 4px;
+  font-weight: 300;
+  line-height: 150%;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.6);
+  z-index: 50;
+  position: relative;
+}
 
 .project-card-info {
   position: absolute;
@@ -43,13 +140,13 @@
   padding: 1em;
   opacity: 0;
   transition: opacity 0.3s ease;
-  pointer-events: none; /* Clicks pass through to the image */
+  pointer-events: none; /* Clicks pass through to the image *
 }
 
 .project-card-info:hover {
   opacity: 1;
 }
-
+ */
 @media (max-width: 768px) {
   #projects {
     flex-direction: column;

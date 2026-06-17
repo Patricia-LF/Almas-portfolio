@@ -10,21 +10,23 @@
 
     <section class="tapas">
         <div class="tapas-container">
-            <div class="tapas-text-container">
-                <h4>Tapas bar deli</h4>
-                <p class="tapas-text">
-                    Tapas bar deli, a restaurant located in
-                    Umeå, Sweden.
-                </p>
-                <p class="tapas-text">In August 2025 they celebrated 20 years of being
-                    open.
-                </p>
-                <p class="tapas-text">I designed a poster, wich they also used
-                    for social media. I also created illustrations and
-                    patterns for printed t-shirts that were used by the
-                    staff.
-                </p>
-                <p class="tapas-text">instagram: @tapasbardeli</p>
+            <div class="text-badges-container">
+                <div class="tapas-text-container">
+                    <h4>Tapas bar deli</h4>
+                    <p class="tapas-text">
+                        Tapas bar deli, a restaurant located in
+                        Umeå, Sweden.
+                    </p>
+                    <p class="tapas-text">In August 2025 they celebrated 20 years of being
+                        open.
+                    </p>
+                    <p class="tapas-text">I designed a poster, wich they also used
+                        for social media. I also created illustrations and
+                        patterns for printed t-shirts that were used by the
+                        staff.
+                    </p>
+                    <p class="tapas-text">instagram: @tapasbardeli</p>
+                </div>
             </div>
 
             <div class="tapas-img-container">

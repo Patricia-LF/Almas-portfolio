@@ -10,119 +10,84 @@
 
     <section id="illustrations">
         <div class="illustrations-container">
-            <div class="illustrations-text-container">
-                <h4>Illustrations</h4>
-                <p class="illustrations-text">A selection of different illustrations</p>
+            <div class="text-badges-container">
+                <div class="illustrations-text-container">
+                    <h4>Illustrations</h4>
+                    <p class="illustrations-text">A selection of different illustrations</p>
+                </div>
+                <div class="gallery-badges">
+                    <span class="badge">Illustrations</span>
+                </div>
             </div>
 
             <div class="illustrations-img-container">
                 <div class="gallery-item">
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/illustrations/1.POWerprint.png" class="gallery-img">
                     <div class="gallery-overlay">
-                        <span class="gallery-title">Katalog 1</span>
-                        <div class="gallery-badges">
-                            <span class="badge">Print</span>
-                            <span class="badge">Fiktivt</span>
-                        </div>
+                        <span class="gallery-title">POWerprint</span>
                     </div>
                 </div>
 
                 <div class="gallery-item">
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/illustrations/2.swish.png" class="gallery-img">
                     <div class="gallery-overlay">
-                        <span class="gallery-title">Katalog 1</span>
-                        <div class="gallery-badges">
-                            <span class="badge">Print</span>
-                            <span class="badge">Fiktivt</span>
-                        </div>
+                        <span class="gallery-title">Swish</span>
                     </div>
                 </div>
 
                 <div class="gallery-item">
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/illustrations/3.KONSERT-blue.png" class="gallery-img">
                     <div class="gallery-overlay">
-                        <span class="gallery-title">Katalog 1</span>
-                        <div class="gallery-badges">
-                            <span class="badge">Print</span>
-                            <span class="badge">Fiktivt</span>
-                        </div>
+                        <span class="gallery-title">Consert flyer - blue</span>
                     </div>
                 </div>
 
                 <div class="gallery-item">
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/illustrations/4.KONSERT-pink.png" class="gallery-img">
                     <div class="gallery-overlay">
-                        <span class="gallery-title">Katalog 1</span>
-                        <div class="gallery-badges">
-                            <span class="badge">Print</span>
-                            <span class="badge">Fiktivt</span>
-                        </div>
+                        <span class="gallery-title">Consert flyer - pink</span>
                     </div>
                 </div>
 
                 <div class="gallery-item">
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/illustrations/5.mamma.png" class="gallery-img">
                     <div class="gallery-overlay">
-                        <span class="gallery-title">Katalog 1</span>
-                        <div class="gallery-badges">
-                            <span class="badge">Print</span>
-                            <span class="badge">Fiktivt</span>
-                        </div>
+                        <span class="gallery-title">Mother</span>
                     </div>
                 </div>
 
                 <div class="gallery-item">
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/illustrations/6.fisk.png" class="gallery-img">
                     <div class="gallery-overlay">
-                        <span class="gallery-title">Katalog 1</span>
-                        <div class="gallery-badges">
-                            <span class="badge">Print</span>
-                            <span class="badge">Fiktivt</span>
-                        </div>
+                        <span class="gallery-title">Fish</span>
                     </div>
                 </div>
 
                 <div class="gallery-item">
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/illustrations/7.Fisk-mönster.png" class="gallery-img">
                     <div class="gallery-overlay">
-                        <span class="gallery-title">Katalog 1</span>
-                        <div class="gallery-badges">
-                            <span class="badge">Print</span>
-                            <span class="badge">Fiktivt</span>
-                        </div>
+                        <span class="gallery-title">Fish patterns</span>
                     </div>
                 </div>
 
                 <div class="gallery-item">
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/illustrations/8.kaffemaskin.png" class="gallery-img">
                     <div class="gallery-overlay">
-                        <span class="gallery-title">Katalog 1</span>
-                        <div class="gallery-badges">
-                            <span class="badge">Print</span>
-                            <span class="badge">Fiktivt</span>
-                        </div>
+                        <span class="gallery-title">Coffee machine</span>
                     </div>
                 </div>
 
                 <div class="gallery-item">
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/illustrations/9.tyge-affish.png" class="gallery-img">
                     <div class="gallery-overlay">
-                        <span class="gallery-title">Katalog 1</span>
-                        <div class="gallery-badges">
-                            <span class="badge">Print</span>
-                            <span class="badge">Fiktivt</span>
-                        </div>
+                        <span class="gallery-title">Tyge poster</span>
                     </div>
                 </div>
 
                 <div class="gallery-item">
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/illustrations/10.mormors-pannkakor.png" class="gallery-img">
                     <div class="gallery-overlay">
-                        <span class="gallery-title">Katalog 1</span>
-                        <div class="gallery-badges">
-                            <span class="badge">Print</span>
-                            <span class="badge">Fiktivt</span>
-                        </div>
+                        <span class="gallery-title">Mormors pannkakor</span>
                     </div>
                 </div>
             </div>

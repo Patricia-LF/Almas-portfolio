@@ -8,13 +8,16 @@
 <main>
     <section class="winebar">
         <div class="winebar-container">
-            <div class="winebar-text-container">
-                <h4>Winebar designs</h4>
-                <p class="winebar-text">
-                    Here is a collection of posters, for Instagram and
-                    prints for different wine bars in Stockholm.
-                </p>
+            <div class="text-badges-container">
+                <div class="winebar-text-container">
+                    <h4>Winebar designs</h4>
+                    <p class="winebar-text">
+                        Here is a collection of posters, for Instagram and
+                        prints for different wine bars in Stockholm.
+                    </p>
+                </div>
             </div>
+
             <div class="winebar-img-container">
                 <div class="gallery-item">
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/winebar-designs/1AFFISCH vinioni.png" class="gallery-img">
