@@ -9,23 +9,23 @@
 <main>
 
     <section class="tapas">
-        <div class="tapas-container">
+        <div class="project-container">
             <div class="text-badges-container">
-                <div class="tapas-text-container">
+                <div class="project-text-container">
                     <h4>Tapas bar deli</h4>
-                    <p class="tapas-text">
+                    <p class="project-text">
                         Tapas bar deli, a restaurant located in
                         Umeå, Sweden.
                     </p>
-                    <p class="tapas-text">In August 2025 they celebrated 20 years of being
+                    <p class="project-text">In August 2025 they celebrated 20 years of being
                         open.
                     </p>
-                    <p class="tapas-text">I designed a poster, wich they also used
+                    <p class="project-text">I designed a poster, wich they also used
                         for social media. I also created illustrations and
                         patterns for printed t-shirts that were used by the
                         staff.
                     </p>
-                    <p class="tapas-text">instagram: @tapasbardeli</p>
+                    <p class="project-text">instagram: @tapasbardeli</p>
                 </div>
                 <div class="gallery-badges">
                     <span class="badge">Poster</span>
@@ -34,7 +34,7 @@
                 </div>
             </div>
 
-            <div class="tapas-img-container">
+            <div class="project-img-container">
                 <div class="gallery-item">
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/tapas/tapas.png" class="gallery-img">
                     <div class="gallery-overlay">

@@ -9,11 +9,11 @@
 <main>
 
     <section class="bin">
-        <div class="bin-container">
+        <div class="project-container">
             <div class="text-badges-container">
-                <div class="bin-text-container">
+                <div class="project-text-container">
                     <h4>Binas historia</h4>
-                    <p class="bin-text">
+                    <p class="project-text">
                         I have placed and set the text for the story of the
                         bees, as well as an alternative cover. (fictitious
                         design)
@@ -25,7 +25,7 @@
                 </div>
             </div>
 
-            <div class="bin-img-container">
+            <div class="project-img-container">
                 <div class="gallery-item">
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/binas historia/front-binashistoria.webp" class="gallery-img">
                     <div class="gallery-overlay">

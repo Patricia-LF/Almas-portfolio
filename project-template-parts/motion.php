@@ -9,18 +9,18 @@
 <main>
 
     <section class="motion">
-        <div class="motion-container">
-            <div class="motion-text-container">
+        <div class="project-container">
+            <div class="project-text-container">
                 <h4>Motion design</h4>
-                <p class="motion-text">
+                <p class="project-text">
                     Here we have two animations. A coffee machine
                     and the dachshund Sture on a walk.
                 </p>
             </div>
 
-            <div class="motion-img-container">
+            <div class="project-img-container">
                 <div class="gallery-item" data-video="<?php echo get_template_directory_uri(); ?>/assets/motion/coffee.mp4">
-                    <video src="<?php echo get_template_directory_uri(); ?>/assets/motion/Coffee.mp4" class="gallery-thumb-video" muted preload="metadata"></video>
+                    <video src="<?php echo get_template_directory_uri(); ?>/assets/motion/coffee.mp4" class="gallery-thumb-video" muted preload="metadata"></video>
                     <div class="gallery-overlay">
                         <span class="gallery-title">Coffee machine</span>
                     </div>

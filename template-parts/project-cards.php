@@ -49,6 +49,13 @@
             </div>
 
             <div class="project-card">
+                <a href="<?php echo get_permalink(35); ?>" class="project-link">
+                    <div class="project-name">Potejto</div>
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/potejto/Takeaway-bag-cropped.webp">
+                </a>
+            </div>
+
+            <div class="project-card">
                 <a href="<?php echo get_permalink(13); ?>" class="project-link">
                     <div class="project-name">Dugges</div>
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/dugges/haze ipa. 1080x1920png.png">
@@ -59,13 +66,6 @@
                 <a href="<?php echo get_permalink(33); ?>" class="project-link">
                     <div class="project-name">Binas historia</div>
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/binas historia/front-binashistoria-cropped.webp">
-                </a>
-            </div>
-
-            <div class="project-card">
-                <a href="<?php echo get_permalink(35); ?>" class="project-link">
-                    <div class="project-name">Potejto</div>
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/potejto/Takeaway-bag-cropped.webp">
                 </a>
             </div>
 

@@ -9,11 +9,11 @@
 <main>
 
     <section class="potejto">
-        <div class="potejto-container">
+        <div class="project-container">
             <div class="text-badges-container">
-                <div class="potejto-text-container">
+                <div class="project-text-container">
                     <h4>Potejto</h4>
-                    <p class="potejto-text">
+                    <p class="project-text">
                         During my graphic design course, I was
                         assigned the country of England and was
                         supposed to create a restaurant concept
@@ -27,7 +27,7 @@
                 </div>
             </div>
 
-            <div class="potejto-img-container">
+            <div class="project-img-container">
                 <div class="gallery-item">
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/potejto/blue.png" class="gallery-img">
                     <div class="gallery-overlay">

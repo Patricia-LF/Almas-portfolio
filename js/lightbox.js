@@ -24,20 +24,18 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   });
 
-  // Open lightbox when clicking a motion gallery item (video)
-  document
-    .querySelectorAll(".motion-img-container .gallery-item")
-    .forEach((item) => {
-      item.addEventListener("click", () => {
-        const videoSrc = item.getAttribute("data-video");
+  // Open lightbox when clicking a gallery item that has a video
+  document.querySelectorAll(".gallery-item[data-video]").forEach((item) => {
+    item.addEventListener("click", () => {
+      const videoSrc = item.getAttribute("data-video");
 
-        lightboxImg.style.display = "none";
-        lightboxVideo.style.display = "block";
-        lightboxVideo.src = videoSrc;
-        lightbox.style.display = "flex";
-        lightboxVideo.play();
-      });
+      lightboxImg.style.display = "none";
+      lightboxVideo.style.display = "block";
+      lightboxVideo.src = videoSrc;
+      lightbox.style.display = "flex";
+      lightboxVideo.play();
     });
+  });
 
   // Close on close-button
   lightboxClose.addEventListener("click", closeLightbox);

@@ -8,11 +8,11 @@
 <main>
 
     <section class="sjomat">
-        <div class="sjomat-container">
+        <div class="project-container">
             <div class="text-badges-container">
-                <div class="sjomat-text-container">
+                <div class="project-text-container">
                     <h4>Sjömat X pappas delikatesser</h4>
-                    <p class="sjomat-text">
+                    <p class="project-text">
                         In collaboration with Sjömat and pappas delikatesser. Two Swedish companies in the fish trade I have developed suggestions for cover designs for their catalog for 2026.
                         I was assigned a spread focusing on the family business Silleriet. In an interview with Sofie and Örjan, their most important points in their business are highlighted. I have then designed a spread to promote their company.
                     </p>
@@ -23,7 +23,7 @@
                 </div>
             </div>
 
-            <div class="sjomat-img-container">
+            <div class="project-img-container">
                 <div class="gallery-item">
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/sjomat/Sjomat_Katalog1.webp" class="gallery-img">
                     <div class="gallery-overlay">

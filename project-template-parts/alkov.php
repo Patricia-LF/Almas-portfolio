@@ -9,20 +9,20 @@
 <main>
 
     <section class="alkov">
-        <div class="alkov-container">
+        <div class="project-container">
             <div class="text-badges-container">
-                <div class="alkov-text-container">
+                <div class="project-text-container">
                     <h4>Alkov</h4>
-                    <p class="alkov-text">
+                    <p class="project-text">
                         During this project I have created a graphic
                         profile for Bar Alkov at Järntorget 6, Gothenburg.</p>
 
-                    <p class="alkov-text">The project includes creating a menu,
+                    <p class="project-text">The project includes creating a menu,
                         producing merch, some fun for Instagram and
                         the logo.</p>
 
-                    <p class="alkov-text">Check them out on instagram</p>
-                    <p class="alkov-text">@baralkov</p>
+                    <p class="project-text">Check them out on instagram</p>
+                    <p class="project-text">@baralkov</p>
                 </div>
                 <div class="gallery-badges">
                     <span class="badge">Print</span>
@@ -30,7 +30,7 @@
                 </div>
             </div>
 
-            <div class="alkov-img-container">
+            <div class="project-img-container">
                 <div class="gallery-item">
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/alkov/alkov.png" class="gallery-img">
                     <div class="gallery-overlay">

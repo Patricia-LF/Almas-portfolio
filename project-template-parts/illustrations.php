@@ -9,18 +9,18 @@
 <main>
 
     <section id="illustrations">
-        <div class="illustrations-container">
+        <div class="project-container">
             <div class="text-badges-container">
-                <div class="illustrations-text-container">
+                <div class="project-text-container">
                     <h4>Illustrations</h4>
-                    <p class="illustrations-text">A selection of different illustrations</p>
+                    <p class="project-text">A selection of different illustrations</p>
                 </div>
                 <div class="gallery-badges">
                     <span class="badge">Illustrations</span>
                 </div>
             </div>
 
-            <div class="illustrations-img-container">
+            <div class="project-img-container">
                 <div class="gallery-item">
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/illustrations/1.POWerprint.webp" class="gallery-img">
                     <div class="gallery-overlay">

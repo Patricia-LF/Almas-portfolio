@@ -9,11 +9,11 @@
 <main>
 
     <section class="dugges">
-        <div class="dugges-container">
+        <div class="project-container">
             <div class="text-badges-container">
-                <div class="dugges-text-container">
+                <div class="project-text-container">
                     <h4>Dugges</h4>
-                    <p class="dugges-text">
+                    <p class="project-text">
                         Fictional design for dugge’s newly released beer
                         (hazy ipa) Dolcitro!
                     </p>
@@ -24,7 +24,7 @@
                 </div>
             </div>
 
-            <div class="dugges-img-container">
+            <div class="project-img-container">
                 <div class="gallery-item">
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/dugges/haze ipa. 1080x1920png.png" class="gallery-img">
                     <div class="gallery-overlay">

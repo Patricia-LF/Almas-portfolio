@@ -8,11 +8,11 @@
 <main>
 
     <section class="pitchfork">
-        <div class="pitchfork-container">
+        <div class="project-container">
             <div class="text-badges-container">
-                <div class="pitchfork-text-container">
+                <div class="project-text-container">
                     <h4>Pitchfork</h4>
-                    <p class="pitchfork-text">
+                    <p class="project-text">
                         Design proposal if Pitchfork had printed a magazine in 2026. Inspired by the 90s and punk.
                     </p>
                 </div>
@@ -22,7 +22,7 @@
                 </div>
             </div>
 
-            <div class="pitchfork-img-container">
+            <div class="project-img-container">
                 <div class="gallery-item">
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/pitchfork/pitchfork.jpg" class="gallery-img">
                     <div class="gallery-overlay">

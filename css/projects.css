@@ -20,31 +20,13 @@ h4 {
   flex-direction: column;
 }
 
-.alkov-container,
-.sjomat-container,
-.winebar-container,
-.tapas-container,
-.illustrations-container,
-.dugges-container,
-.pitchfork-container,
-.potejto-container,
-.bin-container,
-.motion-container {
+.project-container {
   display: flex;
   flex-direction: column;
   gap: 40px;
 }
 
-.alkov-img-container,
-.sjomat-img-container,
-.winebar-img-container,
-.tapas-img-container,
-.illustrations-img-container,
-.dugges-img-container,
-.pitchfork-img-container,
-.potejto-img-container,
-.bin-img-container,
-.motion-img-container {
+.project-img-container {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
@@ -52,34 +34,17 @@ h4 {
   width: 100%;
 }
 
-.alkov-img-container img,
-.sjomat-img-container img,
-.winebar-img-container img,
-.tapas-img-container img,
-.illustrations-img-container img,
-.dugges-img-container img,
-.pitchfork-img-container img,
-.potejto-img-container img,
-.bin-img-container img,
-.motion-img-container video {
+.project-img-container img,
+.project-img-container video {
   cursor: pointer;
   border-radius: 5%;
 }
 
-.motion-img-container video {
+.project-img-container video {
   object-fit: contain;
 }
 
-.alkov-text-container,
-.sjomat-text-container,
-.winebar-text-container,
-.tapas-text-container,
-.illustrations-text-container,
-.dugges-text-container,
-.pitchfork-text-container,
-.potejto-text-container,
-.bin-text-container,
-.motion-text-container {
+.project-text-container {
   width: 40%;
   display: flex;
   flex-direction: column;
@@ -88,16 +53,7 @@ h4 {
   margin: 0 60px;
 }
 
-.alkov-text,
-.sjomat-text,
-.winebar-text,
-.tapas-text,
-.illustrations-text,
-.dugges-text,
-.pitchfork-text,
-.potejto-text,
-.bin-text,
-.motion-text {
+.project-text {
   font-family: "poppins", sans-serif;
   font-size: 1rem;
   color: #253f8e;
@@ -203,43 +159,16 @@ h4 {
     justify-content: center;
   }
 
-  .alkov-container,
-  .sjomat-container,
-  .winebar-container,
-  .tapas-container,
-  .illustrations-container,
-  .dugges-container,
-  .pitchfork-container,
-  .potejto-container,
-  .bin-container,
-  .motion-container {
+  .project-container {
     gap: 2rem;
   }
 
-  .alkov-text-container,
-  .sjomat-text-container,
-  .winebar-text-container,
-  .tapas-text-container,
-  .illustrations-text-container,
-  .dugges-text-container,
-  .pitchfork-text-container,
-  .potejto-text-container,
-  .bin-text-container,
-  .motion-text-container {
+  .project-text-container {
     margin: 0px;
     width: 100%;
   }
 
-  .alkov-text,
-  .sjomat-text,
-  .winebar-text,
-  .tapas-text,
-  .illustrations-text,
-  .dugges-text,
-  .pitchfork-text,
-  .potejto-text,
-  .bin-text,
-  .motion-text {
+  .project-text {
     width: 90%;
     display: flex;
     align-self: center;
