@@ -27,57 +27,37 @@
                 <div class="gallery-item">
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/sjomat/Sjomat_Katalog1.webp" class="gallery-img">
                     <div class="gallery-overlay">
-                        <span class="gallery-title">Catalog</span>
+                        <span class="gallery-title">Catalog with fish print</span>
                     </div>
                 </div>
                 <div class="gallery-item">
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/sjomat/Sjomat_Katalog2.webp" class="gallery-img">
                     <div class="gallery-overlay">
-                        <span class="gallery-title">Catalog</span>
-                        <div class="gallery-badges">
-                            <span class="badge">Print</span>
-                            <span class="badge">Fiktivt</span>
-                        </div>
+                        <span class="gallery-title">Catalog contents</span>
                     </div>
                 </div>
                 <div class="gallery-item">
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/sjomat/Sjomat_Katalog3.webp" class="gallery-img">
                     <div class="gallery-overlay">
-                        <span class="gallery-title">Katalog 3</span>
-                        <div class="gallery-badges">
-                            <span class="badge">Print</span>
-                            <span class="badge">Fiktivt</span>
-                        </div>
+                        <span class="gallery-title">Catalog recipies</span>
                     </div>
                 </div>
                 <div class="gallery-item">
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/sjomat/Mockup katalog_sjomat4.webp" class="gallery-img">
                     <div class="gallery-overlay">
-                        <span class="gallery-title">Mockup katalog</span>
-                        <div class="gallery-badges">
-                            <span class="badge">Print</span>
-                            <span class="badge">Fiktivt</span>
-                        </div>
+                        <span class="gallery-title">Mockup catalog</span>
                     </div>
                 </div>
                 <div class="gallery-item">
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/sjomat/Fisk_RED5.png" class="gallery-img">
                     <div class="gallery-overlay">
-                        <span class="gallery-title">Fiskmönster röd</span>
-                        <div class="gallery-badges">
-                            <span class="badge">Illustration</span>
-                            <span class="badge">Fiktivt</span>
-                        </div>
+                        <span class="gallery-title">Fish print red</span>
                     </div>
                 </div>
                 <div class="gallery-item">
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/sjomat/Fisk6.png" class="gallery-img">
                     <div class="gallery-overlay">
-                        <span class="gallery-title">Fiskmönster</span>
-                        <div class="gallery-badges">
-                            <span class="badge">Illustration</span>
-                            <span class="badge">Fiktivt</span>
-                        </div>
+                        <span class="gallery-title">Fish print black</span>
                     </div>
                 </div>
             </div>

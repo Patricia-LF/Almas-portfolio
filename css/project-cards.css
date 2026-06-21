@@ -56,7 +56,7 @@
   background: #d287cec4;
 }
 
-.gallery-title {
+/* .gallery-title {
   font-family: "Montsserat", sans-serif;
   font-weight: 600;
   color: white;
@@ -65,7 +65,7 @@
   text-shadow: 0 1px 6px rgba(0, 0, 0, 0.799);
   z-index: 50;
   position: relative;
-}
+} */
 
 .text-badges-container {
   display: flex;

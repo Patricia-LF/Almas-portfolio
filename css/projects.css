@@ -167,7 +167,7 @@ h4 {
   opacity: 1;
 }
 
-.gallery-title {
+/* .gallery-title {
   font-family: "Montsserat", sans-serif;
   font-weight: 600;
   color: white;
@@ -176,7 +176,7 @@ h4 {
   text-shadow: 0 1px 6px rgba(0, 0, 0, 0.799);
   z-index: 50;
   position: relative;
-}
+} */
 
 .text-badges-container {
   display: flex;
@@ -188,7 +188,8 @@ h4 {
   gap: 1rem;
 }
 
-.badge {
+.badge,
+.gallery-title {
   font-family: "Montsserat", sans-serif;
   font-size: 1rem;
   background-color: var(--light-pink);
@@ -201,6 +202,8 @@ h4 {
   box-shadow: 0 1px 6px rgba(0, 0, 0, 0.6);
   z-index: 50;
   position: relative;
+  text-align: center;
+  width: 8rem;
 }
 
 @media (max-width: 768px) {

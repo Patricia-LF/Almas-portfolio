@@ -27,50 +27,38 @@
                     </p>
                     <p class="tapas-text">instagram: @tapasbardeli</p>
                 </div>
+                <div class="gallery-badges">
+                    <span class="badge">Print</span>
+                    <span class="badge">Concept</span>
+                </div>
             </div>
 
             <div class="tapas-img-container">
                 <div class="gallery-item">
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/tapas/tapas.png" class="gallery-img">
                     <div class="gallery-overlay">
-                        <span class="gallery-title">Katalog 1</span>
-                        <div class="gallery-badges">
-                            <span class="badge">Print</span>
-                            <span class="badge">Fiktivt</span>
-                        </div>
+                        <span class="gallery-title">Illustration</span>
                     </div>
                 </div>
 
                 <div class="gallery-item">
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/tapas/tapas-affish-baksida.png" class="gallery-img">
                     <div class="gallery-overlay">
-                        <span class="gallery-title">Katalog 1</span>
-                        <div class="gallery-badges">
-                            <span class="badge">Print</span>
-                            <span class="badge">Fiktivt</span>
-                        </div>
+                        <span class="gallery-title">Poster</span>
                     </div>
                 </div>
 
                 <div class="gallery-item">
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/tapas/t-shirt-blue.png" class="gallery-img">
                     <div class="gallery-overlay">
-                        <span class="gallery-title">Katalog 1</span>
-                        <div class="gallery-badges">
-                            <span class="badge">Print</span>
-                            <span class="badge">Fiktivt</span>
-                        </div>
+                        <span class="gallery-title">T-shirt back</span>
                     </div>
                 </div>
 
                 <div class="gallery-item">
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/tapas/t-shirt-white.png" class="gallery-img">
                     <div class="gallery-overlay">
-                        <span class="gallery-title">Katalog 1</span>
-                        <div class="gallery-badges">
-                            <span class="badge">Print</span>
-                            <span class="badge">Fiktivt</span>
-                        </div>
+                        <span class="gallery-title">T-shirt front</span>
                     </div>
                 </div>
             </div>
