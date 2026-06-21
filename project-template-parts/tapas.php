@@ -28,8 +28,9 @@
                     <p class="tapas-text">instagram: @tapasbardeli</p>
                 </div>
                 <div class="gallery-badges">
-                    <span class="badge">Print</span>
-                    <span class="badge">Concept</span>
+                    <span class="badge">Poster</span>
+                    <span class="badge">Illustration</span>
+                    <span class="badge">Merchandise</span>
                 </div>
             </div>
 

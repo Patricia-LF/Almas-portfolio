@@ -18,7 +18,7 @@
                 </div>
                 <div class="gallery-badges">
                     <span class="badge">Posters</span>
-                    <span class="badge">Concepts</span>
+                    <span class="badge">Prints</span>
                 </div>
             </div>
 

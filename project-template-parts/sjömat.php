@@ -19,7 +19,7 @@
                 </div>
                 <div class="gallery-badges">
                     <span class="badge">Print</span>
-                    <span class="badge">Catalog design</span>
+                    <span class="badge">Spread design</span>
                 </div>
             </div>
 

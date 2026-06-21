@@ -203,7 +203,7 @@ h4 {
   z-index: 50;
   position: relative;
   text-align: center;
-  width: 8rem;
+  width: 10rem;
 }
 
 @media (max-width: 768px) {
@@ -267,8 +267,8 @@ h4 {
     gap: 1.5rem;
   }
 
-  /* .gallery-badges {
-    flex-direction: column;
-    text-align: center;
-  } */
+  .gallery-badges {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
 }

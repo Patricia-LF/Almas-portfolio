@@ -26,7 +26,7 @@
                 </div>
                 <div class="gallery-badges">
                     <span class="badge">Print</span>
-                    <span class="badge">Real</span>
+                    <span class="badge">Merchandise</span>
                 </div>
             </div>
 
