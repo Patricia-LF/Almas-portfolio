@@ -27,14 +27,14 @@
 
             <div class="bin-img-container">
                 <div class="gallery-item">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/binas historia/front-binashistoria.png" class="gallery-img">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/binas historia/front-binashistoria.webp" class="gallery-img">
                     <div class="gallery-overlay">
                         <span class="gallery-title">Book cover front</span>
                     </div>
                 </div>
 
                 <div class="gallery-item">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/binas historia/back-binashistoria.png" class="gallery-img">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/binas historia/back-binashistoria.webp" class="gallery-img">
                     <div class="gallery-overlay">
                         <span class="gallery-title">Book cover back</span>
                     </div>

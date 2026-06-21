@@ -32,6 +32,6 @@
        </div>
 
        <div class="hero-image">
-           <img src="<?php echo get_template_directory_uri(); ?>/assets/images/alma-tejp.png">
+           <img src="<?php echo get_template_directory_uri(); ?>/assets/images/alma-tejp.webp">
        </div>
    </section>

@@ -20,7 +20,7 @@
 
             <div class="winebar-img-container">
                 <div class="gallery-item">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/winebar-designs/1AFFISCH vinioni.png" class="gallery-img">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/winebar-designs/1AFFISCH vinioni.webp" class="gallery-img">
                     <div class="gallery-overlay">
                         <span class="gallery-title">Katalog 1</span>
                         <div class="gallery-badges">
@@ -75,7 +75,7 @@
                 </div>
 
                 <div class="gallery-item">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/winebar-designs/6tyge.png" class="gallery-img">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/winebar-designs/6tyge.jpg" class="gallery-img">
                     <div class="gallery-overlay">
                         <span class="gallery-title">Katalog 1</span>
                         <div class="gallery-badges">

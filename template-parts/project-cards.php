@@ -25,14 +25,14 @@
         <div class="project-card-sjomat">
             <a href="<?php echo get_permalink(27); ?>" class="project-link">
                 <div class="project-name">Sjömat X pappas delikatesser</div>
-                <img src="<?php echo get_template_directory_uri(); ?>/assets/images/sjomat/Mockup katalog_sjomat4.png">
+                <img src="<?php echo get_template_directory_uri(); ?>/assets/images/sjomat/Mockup katalog_sjomat4.webp">
             </a>
         </div>
 
         <div class="project-card">
             <a href="<?php echo get_permalink(18); ?>" class="project-link">
                 <div class="project-name">illustrations</div>
-                <img src="<?php echo get_template_directory_uri(); ?>/assets/images/illustrations/1.POWerprint.png">
+                <img src="<?php echo get_template_directory_uri(); ?>/assets/images/illustrations/1.POWerprint.webp">
             </a>
         </div>
     </div>
@@ -44,7 +44,7 @@
             <div class="project-card">
                 <a href="<?php echo get_permalink(31); ?>" class="project-link">
                     <div class="project-name">Pitchfork</div>
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/pitchfork/pitchfork.png">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/pitchfork/pitchfork.jpg">
                 </a>
             </div>
 
@@ -58,14 +58,14 @@
             <div class="project-card">
                 <a href="<?php echo get_permalink(33); ?>" class="project-link">
                     <div class="project-name">Binas historia</div>
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/binas historia/front-binashistoria-cropped.png">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/binas historia/front-binashistoria-cropped.webp">
                 </a>
             </div>
 
             <div class="project-card">
                 <a href="<?php echo get_permalink(35); ?>" class="project-link">
                     <div class="project-name">Potejto</div>
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/potejto/Takeaway-bag-cropped.png">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/potejto/Takeaway-bag-cropped.webp">
                 </a>
             </div>
 

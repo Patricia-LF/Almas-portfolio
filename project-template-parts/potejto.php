@@ -36,14 +36,14 @@
                 </div>
 
                 <div class="gallery-item">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/potejto/brouchur.png" class="gallery-img">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/potejto/brouchur.webp" class="gallery-img">
                     <div class="gallery-overlay">
                         <span class="gallery-title">Brochure</span>
                     </div>
                 </div>
 
                 <div class="gallery-item">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/potejto/coaster.png" class="gallery-img">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/potejto/coaster.webp" class="gallery-img">
                     <div class="gallery-overlay">
                         <span class="gallery-title">Coaster</span>
                     </div>
@@ -57,42 +57,42 @@
                 </div>
 
                 <div class="gallery-item">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/potejto/merch_keps_potejto.png" class="gallery-img">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/potejto/merch_keps_potejto.webp" class="gallery-img">
                     <div class="gallery-overlay">
                         <span class="gallery-title">Cap</span>
                     </div>
                 </div>
 
                 <div class="gallery-item">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/potejto/potejto-front&back.png" class="gallery-img">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/potejto/potejto-front&back.webp" class="gallery-img">
                     <div class="gallery-overlay">
                         <span class="gallery-title">Brochure</span>
                     </div>
                 </div>
 
                 <div class="gallery-item">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/potejto/print-potejto.png" class="gallery-img">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/potejto/print-potejto.webp" class="gallery-img">
                     <div class="gallery-overlay">
                         <span class="gallery-title">Potejto print</span>
                     </div>
                 </div>
 
                 <div class="gallery-item">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/potejto/print-transparant.png" class="gallery-img">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/potejto/print-transparant.webp" class="gallery-img">
                     <div class="gallery-overlay">
                         <span class="gallery-title">Transparent print</span>
                     </div>
                 </div>
 
                 <div class="gallery-item">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/potejto/Takeaway-bag.png" class="gallery-img">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/potejto/Takeaway-bag.webp" class="gallery-img">
                     <div class="gallery-overlay">
                         <span class="gallery-title">Takeaway bag</span>
                     </div>
                 </div>
 
                 <div class="gallery-item">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/potejto/tshrt_blue.png" class="gallery-img">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/potejto/tshrt_blue.webp" class="gallery-img">
                     <div class="gallery-overlay">
                         <span class="gallery-title">T-shirt</span>
                     </div>

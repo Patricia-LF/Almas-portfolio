@@ -24,14 +24,14 @@
 
             <div class="pitchfork-img-container">
                 <div class="gallery-item">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/pitchfork/pitchfork.png" class="gallery-img">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/pitchfork/pitchfork.jpg" class="gallery-img">
                     <div class="gallery-overlay">
                         <span class="gallery-title">Magazine front page</span>
                     </div>
                 </div>
 
                 <div class="gallery-item">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/pitchfork/pitchfork2.png" class="gallery-img">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/pitchfork/pitchfork2.webp" class="gallery-img">
                     <div class="gallery-overlay">
                         <span class="gallery-title">Magazine spread</span>
                     </div>

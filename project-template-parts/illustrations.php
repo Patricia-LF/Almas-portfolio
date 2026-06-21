@@ -22,7 +22,7 @@
 
             <div class="illustrations-img-container">
                 <div class="gallery-item">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/illustrations/1.POWerprint.png" class="gallery-img">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/illustrations/1.POWerprint.webp" class="gallery-img">
                     <div class="gallery-overlay">
                         <span class="gallery-title">POWerprint</span>
                     </div>
@@ -50,14 +50,14 @@
                 </div>
 
                 <div class="gallery-item">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/illustrations/5.mamma.png" class="gallery-img">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/illustrations/5.mamma.webp" class="gallery-img">
                     <div class="gallery-overlay">
                         <span class="gallery-title">Mother</span>
                     </div>
                 </div>
 
                 <div class="gallery-item">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/illustrations/6.fisk.png" class="gallery-img">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/illustrations/6.fisk.webp" class="gallery-img">
                     <div class="gallery-overlay">
                         <span class="gallery-title">Fish</span>
                     </div>
@@ -78,14 +78,14 @@
                 </div>
 
                 <div class="gallery-item">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/illustrations/9.tyge-affish.png" class="gallery-img">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/illustrations/9.tyge-affish.webp" class="gallery-img">
                     <div class="gallery-overlay">
                         <span class="gallery-title">Tyge poster</span>
                     </div>
                 </div>
 
                 <div class="gallery-item">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/illustrations/10.mormors-pannkakor.png" class="gallery-img">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/illustrations/10.mormors-pannkakor.webp" class="gallery-img">
                     <div class="gallery-overlay">
                         <span class="gallery-title">Mormors pannkakor</span>
                     </div>

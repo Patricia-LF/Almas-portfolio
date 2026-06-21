@@ -33,7 +33,7 @@
                 </div>
 
                 <div class="gallery-item">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/dugges/dolcito mockup_.png" class="gallery-img">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/dugges/dolcito mockup_.webp" class="gallery-img">
                     <div class="gallery-overlay">
                         <span class="gallery-title">Mockup</span>
                     </div>

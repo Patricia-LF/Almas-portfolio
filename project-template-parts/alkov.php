@@ -74,14 +74,14 @@
                 </div>
 
                 <div class="gallery-item">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/alkov/resturant-front.png" class="gallery-img">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/alkov/resturant-front.webp" class="gallery-img">
                     <div class="gallery-overlay">
                         <span class="gallery-title">Resturant front</span>
                     </div>
                 </div>
 
                 <div class="gallery-item">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/alkov/t-shirt.png" class="gallery-img">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/alkov/t-shirt.webp" class="gallery-img">
                     <div class="gallery-overlay">
                         <span class="gallery-title">T-shirt</span>
                     </div>

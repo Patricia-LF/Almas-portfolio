@@ -25,13 +25,13 @@
 
             <div class="sjomat-img-container">
                 <div class="gallery-item">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/sjomat/Sjomat_Katalog1.png" class="gallery-img">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/sjomat/Sjomat_Katalog1.webp" class="gallery-img">
                     <div class="gallery-overlay">
                         <span class="gallery-title">Catalog</span>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/sjomat/Sjomat_Katalog2.png" class="gallery-img">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/sjomat/Sjomat_Katalog2.webp" class="gallery-img">
                     <div class="gallery-overlay">
                         <span class="gallery-title">Catalog</span>
                         <div class="gallery-badges">
@@ -41,7 +41,7 @@
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/sjomat/Sjomat_Katalog3.png" class="gallery-img">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/sjomat/Sjomat_Katalog3.webp" class="gallery-img">
                     <div class="gallery-overlay">
                         <span class="gallery-title">Katalog 3</span>
                         <div class="gallery-badges">
@@ -51,7 +51,7 @@
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/sjomat/Mockup katalog_sjomat4.png" class="gallery-img">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/sjomat/Mockup katalog_sjomat4.webp" class="gallery-img">
                     <div class="gallery-overlay">
                         <span class="gallery-title">Mockup katalog</span>
                         <div class="gallery-badges">
