@@ -20,7 +20,7 @@
 
             <div class="motion-img-container">
                 <div class="gallery-item" data-video="<?php echo get_template_directory_uri(); ?>/assets/motion/coffee.mp4">
-                    <video src="<?php echo get_template_directory_uri(); ?>/assets/motion/coffee.mp4" class="gallery-thumb-video" muted preload="metadata"></video>
+                    <video src="<?php echo get_template_directory_uri(); ?>/assets/motion/Coffee.mp4" class="gallery-thumb-video" muted preload="metadata"></video>
                     <div class="gallery-overlay">
                         <span class="gallery-title">Coffee machine</span>
                     </div>
