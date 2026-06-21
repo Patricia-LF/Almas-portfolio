@@ -39,19 +39,4 @@
         <h2>you!</h2>
     </div>
 
-    <!--     <div class="contact-btns">
-        <ul class="link-list">
-            <li class="link-list-item">
-                <a href="https://www.instagram.com/hammarensgraf_"><img src="<?php echo get_template_directory_uri(); ?>/assets/icons/instagram-2-1-logo-svgrepo-com.svg">
-                </a>
-            </li>
-            <li class="link-list-item">
-                <a href="linkedin.com/in/alma-hammar-0336011b4"><img src="<?php echo get_template_directory_uri(); ?>/assets/icons/linkedin-icon-2-logo-svgrepo-com.svg">
-                </a>
-            </li>
-            <li class="link-list-item">
-                <a href="mailto:almahammar@hotmail.com" class="contact-btn"></a>
-            </li>
-        </ul>
-    </div> -->
 </section>

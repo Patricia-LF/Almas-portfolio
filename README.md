@@ -1,2 +1,3 @@
 # Almas-portfolio
-Portfolio made for Alma Hammar
+
+WordPress portfolio made for graphic producer and designer student Alma Hammar.

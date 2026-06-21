@@ -50,10 +50,5 @@
                 <?php endif; ?>
                 <a href="#contact" class="nav-link-overlay">Contact</a>
             </div>
-            <!--  <div class="navigation-footer">
-                <a href="https://instagram.com/hammarensgraf_" class="nav-contact-link">@hammarensgraf_</a>
-                <a href="mailto:almahammar@hotmail.com" class="nav-contact-link">almahammar@hotmail.com</a>
-                <a href="https://linkedin.com/in/alma-hammar-0336011b4" class="nav-contact-link">LinkedIn</a>
-            </div> -->
         </div>
     </header>

@@ -20,9 +20,6 @@
 
 <body>
     <header>
-        <!-- <nav class="nav-container">
-            <ul role="list" class="nav-grid">
-                <li id="nav-img"> -->
         <a href="/" class="signature-fixed">
             <span>Alma</span>
             <span>Hammar</span>
@@ -32,23 +29,11 @@
             <div class="hamb-line"></div>
             <div class="hamb-line"></div>
         </button>
-        <!-- </li> -->
 
-        <!-- <li id="links" class="nav-list"> -->
         <nav class="nav-top">
             <a href="/" class="nav-link">Start</a>
             <a href="#contact" class="nav-link">Contact</a>
         </nav>
-        <!--      </li>
-                <li id="w-node-_76044d79-fc02-f18d-681f-a792281eef66-281eef23">
-                    <div class="navigation__menu-btn">
-                        <div data-w-id="76044d79-fc02-f18d-681f-a792281eef68" class="open-wrap-2"></div>
-                        <div class="close-wrap">
-                            <div class="navigation-text-2">Close</div>
-                            <div class="close-btn"></div>
-                        </div>
-                </li>
-            </ul> -->
 
         <!-- Hamburger-overlay -->
         <div class="main-navigation" aria-hidden="true">
@@ -57,10 +42,5 @@
                 <a href="/" class="nav-link-overlay">Start</a>
                 <a href="#contact" class="nav-link-overlay">Contact</a>
             </div>
-            <!--    <div class="navigation-footer">
-                <a href="https://instagram.com/hammarensgraf_" class="nav-contact-link">@hammarensgraf_</a>
-                <a href="mailto:almahammar@gmail.com" class="nav-contact-link">almahammar@gmail.com</a>
-                <a href="https://linkedin.com/in/alma-hammar-0336011b4" class="nav-contact-link">LinkedIn</a>
-            </div> -->
         </div>
     </header>

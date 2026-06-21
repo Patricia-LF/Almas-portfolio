@@ -48,24 +48,6 @@
 .bye h2 {
   text-align: end;
 }
-/* 
-.link-list {
-  display: flex;
-  gap: 60px;
-  justify-content: center;
-}
-
-.link-list-item {
-  display: flex;
-}
-
-.link-list-item img {
-  width: 35px;
-}
-
-.link-list-item img:hover {
-  scale: 1.1;
-} */
 
 @media (max-width: 768px) {
   .contact-container {
