@@ -85,7 +85,7 @@
                 </div>
 
                 <div class="gallery-item">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/illustrations/10.mormors-pannkakor.webp" class="gallery-img">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/illustrations/10.Mormors-pannkakor.webp" class="gallery-img">
                     <div class="gallery-overlay">
                         <span class="gallery-title">Mormors pannkakor</span>
                     </div>
