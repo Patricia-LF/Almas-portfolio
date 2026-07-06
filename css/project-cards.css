@@ -27,7 +27,8 @@
   transition: transform 0.3s ease;
 }
 
-.project-card img:hover {
+.project-card img:hover,
+.project-card-sjomat img:hover {
   transform: scale(1.05);
 }
 
