@@ -32,7 +32,7 @@
         <div class="project-card">
             <a href="<?php echo get_permalink(18); ?>" class="project-link">
                 <div class="project-name">illustrations</div>
-                <img src="<?php echo get_template_directory_uri(); ?>/assets/images/illustrations/1.POWerprint.webp">
+                <img src="<?php echo get_template_directory_uri(); ?>/assets/images/illustrations/9.tyge-affish.webp">
             </a>
         </div>
     </div>
@@ -58,7 +58,7 @@
             <div class="project-card">
                 <a href="<?php echo get_permalink(13); ?>" class="project-link">
                     <div class="project-name">Dugges</div>
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/dugges/haze ipa. 1080x1920png.png">
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/dugges/hazy ipa, 1080X1080.png">
                 </a>
             </div>
 
