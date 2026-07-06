@@ -10,18 +10,12 @@
 
     <section class="dugges">
         <div class="project-container">
-            <div class="text-badges-container">
-                <div class="project-text-container">
-                    <h4>Dugges</h4>
-                    <p class="project-text">
-                        Fictional design for dugge’s newly released beer
-                        (hazy ipa) Dolcitro!
-                    </p>
-                </div>
-                <div class="gallery-badges">
-                    <span class="badge">Print</span>
-                    <span class="badge">Concept</span>
-                </div>
+            <div class="project-text-container">
+                <h4>Dugges</h4>
+                <p class="project-text">
+                    Fictional design for dugge’s newly released beer
+                    (hazy ipa) Dolcitro!
+                </p>
             </div>
 
             <div class="project-img-container">

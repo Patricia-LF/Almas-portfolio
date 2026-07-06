@@ -14,7 +14,7 @@
                    Originally from Stockholm and now
                    based in Gothenburg.</p>
 
-               <p>Here is a selection of my favorites
+               <p>Here is a selection of my favourites
                    within graphic design and visual
                    communication.</p>
 

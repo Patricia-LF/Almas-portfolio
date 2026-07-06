@@ -9,18 +9,12 @@
 
     <section class="sjomat">
         <div class="project-container">
-            <div class="text-badges-container">
-                <div class="project-text-container">
-                    <h4>Sjömat X pappas delikatesser</h4>
-                    <p class="project-text">
-                        In collaboration with Sjömat and pappas delikatesser. Two Swedish companies in the fish trade I have developed suggestions for cover designs for their catalog for 2026.
-                        I was assigned a spread focusing on the family business Silleriet. In an interview with Sofie and Örjan, their most important points in their business are highlighted. I have then designed a spread to promote their company.
-                    </p>
-                </div>
-                <div class="gallery-badges">
-                    <span class="badge">Print</span>
-                    <span class="badge">Spread design</span>
-                </div>
+            <div class="project-text-container">
+                <h4>Sjömat X pappas delikatesser</h4>
+                <p class="project-text">
+                    In collaboration with Sjömat and pappas delikatesser. Two Swedish companies in the fish trade I have developed suggestions for cover designs for their catalog for 2026.
+                    I was assigned a spread focusing on the family business Silleriet. In an interview with Sofie and Örjan, their most important points in their business are highlighted. I have then designed a spread to promote their company.
+                </p>
             </div>
 
             <div class="project-img-container">

@@ -10,14 +10,9 @@
 
     <section id="illustrations">
         <div class="project-container">
-            <div class="text-badges-container">
-                <div class="project-text-container">
-                    <h4>Illustrations</h4>
-                    <p class="project-text">A selection of different illustrations</p>
-                </div>
-                <div class="gallery-badges">
-                    <span class="badge">Illustrations</span>
-                </div>
+            <div class="project-text-container">
+                <h4>Illustrations</h4>
+                <p class="project-text">A selection of different illustrations</p>
             </div>
 
             <div class="project-img-container">

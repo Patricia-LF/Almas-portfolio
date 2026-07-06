@@ -10,25 +10,21 @@
 
     <section class="alkov">
         <div class="project-container">
-            <div class="text-badges-container">
-                <div class="project-text-container">
-                    <h4>Alkov</h4>
-                    <p class="project-text">
-                        During this project I have created a graphic
-                        profile for Bar Alkov at Järntorget 6, Gothenburg.</p>
 
-                    <p class="project-text">The project includes creating a menu,
-                        producing merch, some fun for Instagram and
-                        the logo.</p>
+            <div class="project-text-container">
+                <h4>Alkov</h4>
+                <p class="project-text">
+                    During this project I have created a graphic
+                    profile for Bar Alkov at Järntorget 6, Gothenburg.</p>
 
-                    <p class="project-text">Check them out on instagram</p>
-                    <p class="project-text">@baralkov</p>
-                </div>
-                <div class="gallery-badges">
-                    <span class="badge">Print</span>
-                    <span class="badge">Merchandise</span>
-                </div>
+                <p class="project-text">The project includes creating a menu,
+                    producing merch, some fun for Instagram and
+                    the logo.</p>
+
+                <p class="project-text">Check them out on instagram</p>
+                <p class="project-text">@baralkov</p>
             </div>
+
 
             <div class="project-img-container">
                 <div class="gallery-item">

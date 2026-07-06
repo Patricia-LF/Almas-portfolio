@@ -10,21 +10,14 @@
 
     <section class="bin">
         <div class="project-container">
-            <div class="text-badges-container">
-                <div class="project-text-container">
-                    <h4>Binas historia</h4>
-                    <p class="project-text">
-                        I have placed and set the text for the story of the
-                        bees, as well as an alternative cover. (fictitious
-                        design)
-                    </p>
-                </div>
-                <div class="gallery-badges">
-                    <span class="badge">Print</span>
-                    <span class="badge">Concept</span>
-                </div>
+            <div class="project-text-container">
+                <h4>Binas historia</h4>
+                <p class="project-text">
+                    I have placed and set the text for the story of the
+                    bees, as well as an alternative cover. (fictitious
+                    design)
+                </p>
             </div>
-
             <div class="project-img-container">
                 <div class="gallery-item">
                     <img src="<?php echo get_template_directory_uri(); ?>/assets/images/binas historia/front-binashistoria.webp" class="gallery-img">

@@ -113,17 +113,6 @@ h4 {
   opacity: 1;
 }
 
-.text-badges-container {
-  display: flex;
-  align-items: center;
-}
-
-.gallery-badges {
-  display: flex;
-  gap: 1rem;
-}
-
-.badge,
 .gallery-title {
   font-family: "Montsserat", sans-serif;
   font-size: 1rem;
@@ -170,7 +159,7 @@ h4 {
     object-fit: contain;
   }
 
-  .text-badges-container {
+  /*   .text-badges-container {
     flex-direction: column;
     gap: 1.5rem;
   }
@@ -178,7 +167,7 @@ h4 {
   .gallery-badges {
     flex-wrap: wrap;
     justify-content: center;
-  }
+  } */
 
   .gallery-item img {
     height: auto;

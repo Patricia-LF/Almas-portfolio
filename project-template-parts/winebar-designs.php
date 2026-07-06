@@ -8,18 +8,12 @@
 <main>
     <section class="winebar">
         <div class="project-container">
-            <div class="text-badges-container">
-                <div class="project-text-container">
-                    <h4>Winebar designs</h4>
-                    <p class="project-text">
-                        Here is a collection of posters, for Instagram and
-                        prints for different wine bars in Stockholm.
-                    </p>
-                </div>
-                <div class="gallery-badges">
-                    <span class="badge">Posters</span>
-                    <span class="badge">Prints</span>
-                </div>
+            <div class="project-text-container">
+                <h4>Winebar designs</h4>
+                <p class="project-text">
+                    Here is a collection of posters, for Instagram and
+                    prints for different wine bars in Stockholm.
+                </p>
             </div>
 
             <div class="project-img-container">

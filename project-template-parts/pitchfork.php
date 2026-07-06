@@ -9,17 +9,11 @@
 
     <section class="pitchfork">
         <div class="project-container">
-            <div class="text-badges-container">
-                <div class="project-text-container">
-                    <h4>Pitchfork</h4>
-                    <p class="project-text">
-                        Design proposal if Pitchfork had printed a magazine in 2026. Inspired by the 90s and punk.
-                    </p>
-                </div>
-                <div class="gallery-badges">
-                    <span class="badge">Print</span>
-                    <span class="badge">Design concept</span>
-                </div>
+            <div class="project-text-container">
+                <h4>Pitchfork</h4>
+                <p class="project-text">
+                    Design proposal if Pitchfork had printed a magazine in 2026. Inspired by the 90s and punk.
+                </p>
             </div>
 
             <div class="project-img-container">

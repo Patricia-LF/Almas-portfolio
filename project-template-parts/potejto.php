@@ -10,21 +10,15 @@
 
     <section class="potejto">
         <div class="project-container">
-            <div class="text-badges-container">
-                <div class="project-text-container">
-                    <h4>Potejto</h4>
-                    <p class="project-text">
-                        During my graphic design course, I was
-                        assigned the country of England and was
-                        supposed to create a restaurant concept
-                        based on it, for a fictional restaurant that
-                        was to be opened in Gothenburg.
-                    </p>
-                </div>
-                <div class="gallery-badges">
-                    <span class="badge">Print</span>
-                    <span class="badge">Concept</span>
-                </div>
+            <div class="project-text-container">
+                <h4>Potejto</h4>
+                <p class="project-text">
+                    During my graphic design course, I was
+                    assigned the country of England and was
+                    supposed to create a restaurant concept
+                    based on it, for a fictional restaurant that
+                    was to be opened in Gothenburg.
+                </p>
             </div>
 
             <div class="project-img-container">
