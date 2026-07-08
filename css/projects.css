@@ -90,8 +90,7 @@ h4 {
   cursor: pointer;
 }
 
-.gallery-item img,
-.gallery-item video {
+.gallery-item img {
   height: 400px;
   width: auto;
   display: block;

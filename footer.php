@@ -1,7 +1,12 @@
 <div class="lightbox" aria-hidden="true">
     <button class="lightbox-close">✕</button>
     <img class="lightbox-img" src="" alt="">
-    <video class="lightbox-video" controls></video>
+    <video
+        class="lightbox-video"
+        controls
+        playsinline
+        preload="metadata">
+    </video>
 </div>
 
 <footer>

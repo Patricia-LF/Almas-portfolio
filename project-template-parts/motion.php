@@ -20,16 +20,20 @@
 
             <div class="project-img-container">
                 <div class="gallery-item" data-video="<?php echo get_template_directory_uri(); ?>/assets/motion/coffee.mp4">
-                    <video src="<?php echo get_template_directory_uri(); ?>/assets/motion/coffee.mp4" class="gallery-thumb-video" muted preload="metadata"></video>
+
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/motion-design/coffee.png" alt="Coffee machine">
+
                     <div class="gallery-overlay">
                         <span class="gallery-title">Coffee machine</span>
                     </div>
                 </div>
 
                 <div class="gallery-item" data-video="<?php echo get_template_directory_uri(); ?>/assets/motion/dog.mp4">
-                    <video src="<?php echo get_template_directory_uri(); ?>/assets/motion/dog.mp4" class="gallery-thumb-video" muted preload="metadata"></video>
+
+                    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/motion-design/dog.png" alt="Sture the dog">
+
                     <div class="gallery-overlay">
-                        <span class="gallery-title">Sture</span>
+                        <span class="gallery-title">Sture the dog</span>
                     </div>
                 </div>
             </div>

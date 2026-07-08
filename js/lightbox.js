@@ -6,11 +6,14 @@ document.addEventListener("DOMContentLoaded", () => {
 
   function closeLightbox() {
     lightbox.style.display = "none";
+
     lightboxImg.style.display = "none";
     lightboxImg.src = "";
+
     lightboxVideo.pause();
+    lightboxVideo.removeAttribute("src");
+    lightboxVideo.load();
     lightboxVideo.style.display = "none";
-    lightboxVideo.src = "";
   }
 
   // Open lightbox when clicking a gallery image
@@ -31,9 +34,15 @@ document.addEventListener("DOMContentLoaded", () => {
 
       lightboxImg.style.display = "none";
       lightboxVideo.style.display = "block";
+
       lightboxVideo.src = videoSrc;
+      lightboxVideo.load();
+
       lightbox.style.display = "flex";
-      lightboxVideo.play();
+
+      lightboxVideo.play().catch((err) => {
+        console.error("Video could not play:", err);
+      });
     });
   });
 
