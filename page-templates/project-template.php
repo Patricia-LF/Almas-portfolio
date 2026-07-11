@@ -11,35 +11,13 @@
     <section class="project">
         <div class="project-container">
 
-            <div class="text-badges-container">
-                <div class="project-text-container">
-                    <h4><?php the_title(); ?></h4>
+            <div class="project-text-container">
+                <h4><?php the_title(); ?></h4>
 
-                    <?php
-                    // Output the page content (written in the normal WordPress editor)
-                    the_content();
-                    ?>
-                </div>
-
-                <div class="gallery-badges">
-                    <?php
-                    // Show each badge only if it has been filled in
-                    $badge_1 = get_field('badge_1');
-                    $badge_2 = get_field('badge_2');
-                    $badge_3 = get_field('badge_3');
-
-                    if ($badge_1) : ?>
-                        <span class="badge"><?php echo esc_html($badge_1); ?></span>
-                    <?php endif; ?>
-
-                    <?php if ($badge_2) : ?>
-                        <span class="badge"><?php echo esc_html($badge_2); ?></span>
-                    <?php endif; ?>
-
-                    <?php if ($badge_3) : ?>
-                        <span class="badge"><?php echo esc_html($badge_3); ?></span>
-                    <?php endif; ?>
-                </div>
+                <?php
+                // Output the page content (written in the normal WordPress editor)
+                the_content();
+                ?>
             </div>
 
             <div class="project-img-container">

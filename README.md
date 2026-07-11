@@ -11,7 +11,6 @@ A custom WordPress theme built as a portfolio site for graphic design student Al
 - **CMS:** WordPress (hosted on Strato)
 - **Theme:** Custom PHP theme (no page builder)
 - **Frontend:** Vanilla JS, CSS custom properties
-- **Plugins:** Advanced Custom Fields (ACF) — free tier
 
 ---
 
@@ -69,14 +68,14 @@ Portfolio/
 
 ## Features
 
-- **Custom navigation** with a fixed signature/hamburger that stays on scroll, and a fullscreen overlay menu
+- **Custom navigation** with a fixed signature/hamburger that stays on scroll; on mobile the menu opens as a fullscreen overlay, on desktop the links are visible in the header
 - **Image lightbox** — click any gallery image to open it fullscreen; close with button or backdrop click
 - **Video lightbox** — motion design page supports video thumbnails with hover titles, opening in a fullscreen lightbox on click
 - **Hover overlays** — gallery images show title on hover with `pointer-events: none` so click-through to lightbox is preserved
 - **Wiggle animation** — hero image plays a CSS keyframe animation on page load
-- **Back to top button** — appears on project pages
+- **Back to top button** — appears on all pages
 - **CV download** — linked from the hero section
-- **Reusable project template** — new projects can be added via WordPress admin using the "Projekt" page template, with ACF fields for badges and a native WordPress gallery for images
+- **Reusable project template** — new projects can be added via WordPress admin using the "Projekt" page template with a native WordPress gallery for images; each image's Title field in the media library becomes the hover label
 
 ---
 
@@ -89,7 +88,6 @@ To run locally:
 1. Install [WordPress Studio](https://developer.wordpress.com/studio/)
 2. Create a new site and copy the `Portfolio` theme folder into `wp-content/themes/`
 3. Activate the theme under **Appearance → Themes** in wp-admin
-4. Install the **Advanced Custom Fields** plugin (free) and set up a field group named "Projektdetaljer" with text fields `badge_1`, `badge_2`, `badge_3`, shown on pages using the "Projekt" template
 
 ---
 
@@ -116,9 +114,8 @@ For future deployments or migrations:
 2. Set the page template to **"Projekt"** under Page Attributes
 3. Write the project description in the editor
 4. Add a WordPress gallery block with the project images (each image's Title field in the media library becomes the hover label)
-5. Fill in the ACF badge fields (e.g. "Print", "Concept")
-6. Publish the page
-7. To feature the project on the home page, add it manually to `template-parts/project-cards.php`
+5. Publish the page
+6. To feature the project on the home page, add it manually to `template-parts/project-cards.php`
 
 ---
 
