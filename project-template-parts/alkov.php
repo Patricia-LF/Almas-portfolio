@@ -14,8 +14,7 @@
             <div class="project-text-container">
                 <h4>Alkov</h4>
                 <p class="project-text">
-                    During this project I have created a graphic
-                    profile for Bar Alkov at Järntorget 6, Gothenburg.</p>
+                    During this project I have created a graphic profile for Bar Alkov at Järntorget no. 6 in Gothenburg.</p>
 
                 <p class="project-text">The project includes creating a menu,
                     producing merch, some fun for Instagram and
